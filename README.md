@@ -255,4 +255,4 @@ Armazena o histórico de mudanças de status das entregas pelas transportadoras.
 
 ## Diagrama EER
 
-![Diagrama EER](diagrama_e-commerce.svg)
+![Diagrama EER](diagrama_e-commerce.png)
